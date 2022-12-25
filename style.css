@@ -177,3 +177,11 @@ input::placeholder{
 background-color: white;
 color: #2c71b8;
 }
+.sell{
+    background-image: url(imges/icon\ \(17\).png);
+    background-color: white;
+    background-repeat: no-repeat;
+    width: 100px ;
+    height: 100px;
+    display: flex;
+}
